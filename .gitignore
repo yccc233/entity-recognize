@@ -1,0 +1,15 @@
+# mac自带文件、ide自带文件
+.DS_Store
+.idea
+/ner/.DS_Store
+/ner/.idea
+
+# python自带文件
+__pycache__
+/ner/__pycache__
+
+# 训练结果
+/ner/result
+
+# 训练日志
+/ner/log
